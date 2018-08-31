@@ -174,6 +174,7 @@ int APIENTRY WinMain(HINSTANCE hInstance,
 			// •`‰æI—¹(‚±‚±‚Ü‚Å‚É•`‰æˆ—‚ğ‘‚­‚±‚Æ)
 			DrawEnd();
 		}
+
 	}
 
 	// DirectXI—¹
