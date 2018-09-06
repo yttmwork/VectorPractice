@@ -3,9 +3,6 @@
 #include <time.h>
 #include "DirectXLib/Lib.h"
 
-
-//momoちゃんだぜ
-
 // ウィンドウのサイズ
 #define WINDOW_WIDTH (800)
 #define WINDOW_HEIGHT (600)
